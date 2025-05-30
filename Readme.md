@@ -22,7 +22,7 @@ Dentro de estas practicas estaremos usando el compilador Live Server que es dent
 17. Funciones que retornan valores.
 18. Arrays Methods - Parte 1 
 - .filter
--  arrow 
+-  arrow =>
 - .includes
 19. Arrays Methods - Parte 2
 - .some
