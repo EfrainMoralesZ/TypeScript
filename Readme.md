@@ -1,5 +1,8 @@
 Dentro de este proyecto se encuentran conceptos y herramientas de uso en TypeScript
 
+Dentro de estas practicas estaremos usando el compilador Live Server que es dentro del navegador de nuestra preferencia. 
+
+
 1. variables let.
 2. variables const.
 3. Tipos de datos en JavaScript.
@@ -14,4 +17,7 @@ Dentro de este proyecto se encuentran conceptos y herramientas de uso en TypeScr
 12. Recorriendo Arrays con for.
 13. Recorriendo Arrays con forEach, .map, for ...of
 14. Funciones - Function Declaration.
-15. Funciones - Funcion Expression 
+15. Funciones - Funcion Expression.
+16. Funciones - Funcion Arrow.
+17. Funciones que retornan valores.
+
